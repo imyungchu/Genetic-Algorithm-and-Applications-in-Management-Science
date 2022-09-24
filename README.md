@@ -9,7 +9,7 @@
 ### Overview : The quick guide of the project
 
 Copyright© of the project is belonged to our Project Member： Chen,Chun-yi Huang,I-Chen. Note that no one shall download, reprint, reproduce, distribute, publicly broadcast, publish or distribute the research content of our project research in any form without written consent.
-
+Data downloaded from TEJ database as follows: https://drive.google.com/drive/folders/11pX59V9ezz417V02eqNrfNuHKpl2MKhX?usp=sharing
 ### Project 
 
 #### 1. Research method
